@@ -8,16 +8,16 @@ const Navbar = () => {
       <Nav>
         <NavMenu>
           <NavLink to="/about" activeStyle>
-            About
+            About-Donation
           </NavLink>
           <NavLink to="/donor" activeStyle>
-            Donor
+            Blood-Donor
           </NavLink>
           <NavLink to="/donation" activeStyle>
-            Donation
+            Blood-Donation
           </NavLink>
           <NavLink to="/campaign" activeStyle>
-            Campaign
+            Donation-Campaign
           </NavLink>
         </NavMenu>
       </Nav>
